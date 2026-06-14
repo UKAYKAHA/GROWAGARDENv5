@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UKAYKAHA/GrowaGarden/refs/heads/main/2"))()
